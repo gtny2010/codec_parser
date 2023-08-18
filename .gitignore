@@ -1,0 +1,12 @@
+.vscode
+build*
+tmp
+*.o
+*.d
+# *.deb
+# deb/*.deb
+*.a
+*.pc
+*.log
+*.yuv
+
